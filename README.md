@@ -9,7 +9,7 @@ git clone <repository-url>
 
 pip install -r requirements.txt
 
-** Execute ** python3 attendance.py
+**Execute:** python3 attendance.py
 
 
 
