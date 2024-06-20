@@ -1,9 +1,10 @@
   **Face Recognition-Based Attendance System**
+  
 This project is a face recognition-based attendance system. It uses your device's camera to register and recognize faces, and automatically marks attendance by identifying faces
 
 
 **Clone:**
-git clone <repository-url> 
+git clone **repository-url**
 
 **installation of dependent packages:**
 
